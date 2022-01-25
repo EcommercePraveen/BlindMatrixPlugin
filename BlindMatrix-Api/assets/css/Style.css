@@ -1,0 +1,147 @@
+.short-code-css
+{
+	border: 1px solid;
+    padding: 8px;
+  
+}
+.customers thead  {
+    background-color: #d40579;
+	color: #fff !important;
+	font-weight: bold;
+	text-align: center !important;
+	font-size:16px !important;
+	
+}
+td.shortcode-title {
+    font-size: 14px;
+    font-weight: bold;
+    PADDING: 8px;
+    color: #000 !IMPORTANT;
+}
+.customers td, .customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.short-code-heading
+{
+width:100%;
+margin:20px auto 0;
+background: #fff;
+padding:15px;
+}
+.source-code-tit
+{
+	text-align:center;
+}
+.source-code-tit h1
+{
+	display: inline-block;
+	margin: 0 0 0 1px;
+	font-size: 31px;
+}
+.customers
+{
+	width:100%;
+	margin:0px auto 0;
+	background: #fff;
+	padding:25px;
+}
+table.customers th {
+    padding: 8px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.blindmatrix-api{
+width:90%;
+margin:20px auto 0;
+background: #fff;
+padding:15px
+}
+.blindmatrix-api td
+{
+text-align:center;
+}
+.blindmatrix-api h1
+{
+display: inline-block;
+margin: 0 0 0 1px;
+font-size: 30px;
+}
+.blindmatrix-api-innerpage
+{
+width:90%;
+border:1px solid #ddd;
+margin:0 auto;
+background: #fff;
+padding:20px;
+}
+.blindmatrix-api-innerpage th{
+	padding:10px
+}
+.blindmatrix-api-innerpage td{
+	padding:10px
+}
+.blindmatrix-api-innerpage tr{
+}
+.api-url-name
+{
+	width:100%
+}
+.api-name
+{
+	width:100%
+}
+.short-code-css
+{
+	border: 1px solid;
+    padding: 8px;
+    display:flex;
+    justify-content:space-between;
+  
+}
+.cusbtn{
+    border: none;
+    background: #d40579;
+    color: #fff;
+    padding: 8px 8px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    display:flex;
+    align-items:center;
+}
+.cusbtn img{
+    width:15px;
+    margin-right:5px;
+}
+.activebtn{
+    background-color:#58e05c !important;
+}
+#toastmsg img{
+    width:20px;
+    margin-right:15px;
+}
+#toastmsg{
+    width: 160px;
+    background: #fff;
+    display: none;
+    padding: 14px 20px;
+    position: fixed;
+    right: 20px;
+    top: 50px;
+    animation: myfirst 5s 2;
+    animation-direction:reverse;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+tbody#order_shipping_line_items {
+    display: none;
+}
+.display_meta th{
+	display:none;
+}
+.wc-order-item-name{
+    pointer-events: none;
+    color: black;
+    text-decoration: none;
+	font-weight: 600;
+}
