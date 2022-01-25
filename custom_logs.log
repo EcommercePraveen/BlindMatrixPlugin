@@ -1,0 +1,5 @@
+
+2021-04-12 01:18:49 :: OpenSSL SSL_connect: Connection reset by peer in connection to blindmatrix.biz:443 
+2021-04-12 01:20:57 :: Failed to connect to blindmatrix.biz port 443: Connection timed out
+2021-04-12 02:24:11 :: Failed to connect to blindmatrix.biz port 443: Connection timed out
+2021-04-13 03:00:25 :: Failed to connect to blindmatrix.biz port 443: Connection timed out
